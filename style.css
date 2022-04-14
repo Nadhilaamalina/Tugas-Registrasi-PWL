@@ -1,0 +1,57 @@
+/* Identitas Mahasiswa
+    Nim : 1120031028
+    Nama : Nadhila Amalina Nur Haliza
+    Tugas 2 Membuat Halaman Registrasi Web menggunakan css
+*/
+
+h2 {  
+    margin: 5;
+    padding: 0;
+    outline: 0;
+    color: gray;
+    text-align: center;
+    font-family: 'open sans', sans-serif;
+}
+
+body {
+    background-color: beige;
+    background-size: cover;
+    background-position: center;
+}
+
+table {
+    margin: auto;
+    padding: 20px 100px;
+    position: static;
+    left: 50%;
+    top: 50%;
+    width: 600px;
+    border: 1px solid;
+    background-color: #d1d1d1;
+    
+}
+
+.table {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 500px;
+    border: 1px solid;
+    background-color: #d1d1d1;
+    text-align: center;
+    border-color: black;
+    
+}
+
+.table tr th {
+    width: 500px;
+    background-color: #808080;
+    border: 1 solid;
+    align-items: center;
+    padding: 1px 80px;
+}
+
+.table tr th td {
+    width: 500px;
+    border: 1 solid;
+    align-items: center;
+    background-color: #d1d1d1;
+}
